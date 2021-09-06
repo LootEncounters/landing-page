@@ -32,7 +32,7 @@ const Home: NextPage = () => {
 
           <p>Encounters is a battle resolution primitive for LOOT and its derivatives, namely Characters. With plans to further include additonal derivatives as time goes on. The team came together through the loot project discord. We're excited to launch something soon that we're hoping the community will enjoy.</p>
           <br />
-          <p>If you would like to see what the team is up to, follow along on Twitter or join come join us in Discord, both linked above.</p>
+          <p>If you would like to see what the team is up to, follow along on Twitter or come join us in Discord, both linked above.</p>
 
           <h2>Coming Soon!</h2>
         </div>
