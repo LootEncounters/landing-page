@@ -57,28 +57,28 @@ function Head(): ReactElement {
 
             <meta
                 name="description"
-                content="Encounters is a project based on loot project and its derivatives, namely characters."
+                content="Encounters is a battle resolution primitive for LOOT and its derivatives, namely Characters."
             />
 
             {/* OG + Faceook */}
             <meta property="og:type" content="website" />
-            <meta property="og:url" content="http://www.lootencounters.com/" />
+            <meta property="og:url" content="https://www.lootencounters.com/" />
             <meta property="og:title" content="Encounters" />
             <meta
                 property="og:description"
-                content="Encounters is a project based on loot project and its derivatives, namely characters."
+                content="Encounters is a battle resolution primitive for LOOT and its derivatives, namely Characters."
             />
             <meta property="og:image" content="http://lootencounters.com/meta.png" />
 
             {/* Twitter */}
             <meta property="twitter:card" content="summary_large_image" />
-            <meta property="twitter:url" content="http://www.lootencounters.com/" />
+            <meta property="twitter:url" content="https://www.lootencounters.com/" />
             <meta property="twitter:title" content="Encounters" />
             <meta
                 property="twitter:description"
-                content="Encounters is a project based on loot project and its derivatives, namely characters."
+                content="Encounters is a battle resolution primitive for LOOT and its derivatives, namely Characters."
             />
-            <meta property="twitter:image" content="http://www.lootencounters.com/meta.png" />
+            <meta property="twitter:image" content="https://www.lootencounters.com/meta.png" />
 
             {/* Font */}
             <link rel="preconnect" href="https://fonts.googleapis.com" />
